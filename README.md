@@ -19,55 +19,80 @@ If you are developing a production application, we recommend updating the config
 export default defineConfig([
   globalIgnores(['dist']),
   {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+    # DP Attorney — Frontend
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+    Situs single-page application (React + TypeScript + Vite) untuk profil firma hukum.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+    **Sekilas**
+    - Tech stack: `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Radix UI`, `Framer Motion`.
+    - Tujuan: tampilan landing, halaman practice, team, insights, careers, dan kontak.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+    ## Persyaratan
+    - Node.js 18+ dan `npm` (atau `pnpm`/`yarn` jika Anda pilih alternatif package manager).
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+    ## Instalasi
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+    Clone repository lalu install dependensi:
+
+    ```bash
+    git clone https://github.com/enoysx/dpattorney.git
+    cd dpattorney
+    npm ci
+    ```
+
+    Jika Anda ingin menggunakan `npm install` (untuk menambah/ubah deps):
+
+    ```bash
+    npm install
+    ```
+
+    ## Menjalankan dalam mode development
+
+    ```bash
+    npm run dev
+    ```
+
+    Buka http://localhost:5173/ untuk melihat aplikasi.
+
+    ## Build & preview produksi
+
+    Build untuk produksi:
+
+    ```bash
+    npm run build
+    ```
+
+    Preview hasil build (lokal):
+
+    ```bash
+    npm run preview
+    ```
+
+    ## Linting
+
+    Gunakan ESLint untuk cek statis:
+
+    ```bash
+    npm run lint
+    ```
+
+    Catatan: repo ini tidak menyertakan skrip `test` standar. Untuk testing direkomendasikan menambahkan `vitest` + `@testing-library/react`.
+
+    ## Perubahan terbaru (ringkasan)
+
+    - Memperbaiki beberapa peringatan ESLint dan menghilangkan panggilan fungsi impure saat render.
+    - Memindahkan logika acak ke effect, dan menandai parameter yang belum dipakai agar lint bersih.
+
+    ## Cara berkontribusi singkat
+
+    - Buat branch baru: `git checkout -b feat/nama-fitur`
+    - Commit perubahan: `git add . && git commit -m "feat: jelaskan perubahan"`
+    - Push dan buat PR: `git push origin feat/nama-fitur` lalu buka Pull Request di GitHub.
+
+    ## Tips & debugging
+
+    - Jika bundle produksi besar, pertimbangkan code-splitting (`import()` dynamic) untuk modul berat.
+    - Cek vulnerability: `npm audit` dan perbaiki dengan `npm audit fix` jika sesuai.
+
+    ---
+    _README ini dibuat/diupdate secara otomatis. Silakan sesuaikan lagi sesuai kebutuhan tim._
