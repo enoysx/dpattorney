@@ -43,7 +43,7 @@ export default function Testimonial() {
             law; they understand the{' '}
             <span className="text-orange-500">architecture</span>
             <br className="hidden sm:block" />
-            of innovation. DP Attorney is the only firm we trust
+            of innovation. Dion Pongkor & Partners is the only firm we trust
             <br className="hidden sm:block" />
             with our digital future."
           </motion.blockquote>

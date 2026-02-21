@@ -4,7 +4,7 @@ export const privacyPolicy = {
   content: `
 ## 1. Pendahuluan
 
-DP Attorney ("kami", "kita", atau "firma kami") berkomitmen untuk melindungi privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, mengungkapkan, dan melindungi informasi pribadi Anda ketika Anda menggunakan layanan kami atau mengunjungi situs web kami.
+Dion Pongkor & Partners ("kami", "kita", atau "firma kami") berkomitmen untuk melindungi privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, mengungkapkan, dan melindungi informasi pribadi Anda ketika Anda menggunakan layanan kami atau mengunjungi situs web kami.
 
 Dengan menggunakan layanan kami, Anda menyetujui praktik yang dijelaskan dalam Kebijakan Privasi ini.
 
@@ -110,7 +110,7 @@ Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Perubahan akan
 Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi:
 
 **Data Protection Officer**  
-DP Attorney  
+Dion Pongkor & Partners  
 Marina Bay Financial Centre, Tower 3, Level 42  
 12 Marina Boulevard, Singapore 018982  
 Email: privacy@dpattorney.com  
@@ -128,7 +128,7 @@ export const termsOfUse = {
   content: `
 ## 1. Penerimaan Syarat
 
-Dengan mengakses dan menggunakan situs web DP Attorney ("Situs"), Anda menyetujui untuk terikat oleh Syarat & Ketentuan ini. Jika Anda tidak setuju dengan syarat-syarat ini, harap tidak menggunakan Situs kami.
+Dengan mengakses dan menggunakan situs web Dion Pongkor & Partners ("Situs"), Anda menyetujui untuk terikat oleh Syarat & Ketentuan ini. Jika Anda tidak setuju dengan syarat-syarat ini, harap tidak menggunakan Situs kami.
 
 ## 2. Perubahan Syarat
 
@@ -151,7 +151,7 @@ Anda setuju untuk tidak:
 ## 4. Konten Situs
 
 ### 4.1 Kepemilikan
-Semua konten di Situs, termasuk teks, gambar, logo, dan perangkat lunak, adalah milik DP Attorney atau pemberi lisensi kami dan dilindungi oleh hukum hak cipta.
+Semua konten di Situs, termasuk teks, gambar, logo, dan perangkat lunak, adalah milik Dion Pongkor & Partners atau pemberi lisensi kami dan dilindungi oleh hukum hak cipta.
 
 ### 4.2 Bukan Nasihat Hukum
 Konten di Situs disediakan untuk tujuan informasi umum saja dan tidak merupakan nasihat hukum. Hubungi kami secara langsung untuk konsultasi hukum.
@@ -176,7 +176,7 @@ Situs disediakan "sebagaimana adanya" dan "sebagaimana tersedia". Kami tidak mem
 
 ## 8. Batasan Tanggung Jawab
 
-Sejauh diizinkan oleh hukum, DP Attorney tidak bertanggung jawab atas:
+Sejauh diizinkan oleh hukum, Dion Pongkor & Partners tidak bertanggung jawab atas:
 - Kerugian langsung, tidak langsung, insidental, atau konsekuensial
 - Kehilangan keuntungan atau pendapatan
 - Kehilangan data atau kerusakan reputasi
@@ -184,7 +184,7 @@ Sejauh diizinkan oleh hukum, DP Attorney tidak bertanggung jawab atas:
 
 ## 9. Ganti Rugi
 
-Anda setuju untuk mengganti rugi dan membebaskan DP Attorney, partner, associate, dan staf kami dari klaim, kerugian, atau kerusakan apa pun yang timbul dari penggunaan Situs Anda atau pelanggaran Syarat & Ketentuan ini.
+Anda setuju untuk mengganti rugi dan membebaskan Dion Pongkor & Partners, partner, associate, dan staf kami dari klaim, kerugian, atau kerusakan apa pun yang timbul dari penggunaan Situs Anda atau pelanggaran Syarat & Ketentuan ini.
 
 ## 10. Hukum yang Berlaku
 
@@ -198,7 +198,7 @@ Jika ada ketentuan dalam Syarat & Ketentuan ini yang dianggap tidak dapat ditera
 
 Jika Anda memiliki pertanyaan tentang Syarat & Ketentuan ini, silakan hubungi kami di:
 
-DP Attorney  
+Dion Pongkor & Partners  
 Marina Bay Financial Centre, Tower 3, Level 42  
 12 Marina Boulevard, Singapore 018982  
 Email: info@dpattorney.com  

@@ -61,7 +61,7 @@ export default function CulturePage() {
               Galeri
             </span>
             <h2 className="text-4xl sm:text-5xl font-bold text-white mb-6">
-              Kehidupan di DP Attorney
+              Kehidupan di Dion Pongkor & Partners
             </h2>
           </motion.div>
 

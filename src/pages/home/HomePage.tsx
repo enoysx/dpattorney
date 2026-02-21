@@ -168,7 +168,7 @@ export default function HomePage() {
               transition={{ duration: 0.8 }}
             >
               <span className="text-orange-500 text-sm font-medium uppercase tracking-wider mb-4 block">
-                Tentang DP Attorney
+                Tentang Dion Pongkor & Partners
               </span>
               <h2 className="text-4xl sm:text-5xl font-bold text-white mb-8 leading-tight">
                 Mendefinisikan Ulang
@@ -179,7 +179,7 @@ export default function HomePage() {
               </h2>
               <div className="space-y-6 text-white/60 text-lg leading-relaxed">
                 <p>
-                  Hukum tradisional sudah usang. Kami adalah pelopor. Di DP Attorney, kami melihat
+                  Hukum tradisional sudah usang. Kami adalah pelopor. Di Dion Pongkor & Partners, kami melihat
                   kerangka hukum bukan sebagai kendala, melainkan sebagai kode dasar
                   bisnis modern.
                 </p>
@@ -210,7 +210,7 @@ export default function HomePage() {
                 <div className="relative aspect-video rounded-2xl overflow-hidden border border-white/10">
                   <img
                     src="/images/about-image.jpg"
-                    alt="DP Attorney Office"
+                    alt="Dion Pongkor Office"
                     className="w-full h-full object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
@@ -343,7 +343,7 @@ export default function HomePage() {
               hukum; mereka memahami{' '}
               <span className="text-orange-500">arsitektur</span>
               <br className="hidden sm:block" />
-              inovasi. DP Attorney adalah satu-satunya firma yang kami percayai
+              inovasi. Dion Pongkor & Partners adalah satu-satunya firma yang kami percayai
               <br className="hidden sm:block" />
               untuk masa depan digital kami."
             </motion.blockquote>

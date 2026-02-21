@@ -22,7 +22,7 @@ export default function WhyJoinPage() {
       <PageHeader
         title="Mengapa Bergabung"
         subtitle="Karir"
-        description="Temukan keuntungan dan peluang yang menanti Anda di DP Attorney."
+        description="Temukan keuntungan dan peluang yang menanti Anda di Dion Pongkor & Partners."
       />
 
       {/* Benefits */}

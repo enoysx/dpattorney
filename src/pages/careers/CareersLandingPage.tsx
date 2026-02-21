@@ -18,7 +18,7 @@ export default function CareersLandingPage() {
   return (
     <div className="bg-[#0a0a0a]">
       <PageHeader
-        title="Karir di DP Attorney"
+        title="Karir di Dion Pongkor & Partners"
         subtitle="Bergabung dengan Kami"
         description="Bangun karir hukum Anda bersama firma terkemuka di Asia. Kami mencari talenta terbaik untuk bergabung dengan tim kami."
       />
@@ -83,7 +83,7 @@ export default function CareersLandingPage() {
                 Budaya yang Membangun Karir
               </h2>
               <p className="text-white/60 text-lg leading-relaxed mb-8">
-                Di DP Attorney, kami percaya bahwa budaya perusahaan yang kuat adalah kunci 
+                Di Dion Pongkor & Partners, kami percaya bahwa budaya perusahaan yang kuat adalah kunci 
                 keberhasilan. Kami menciptakan lingkungan yang inklusif, kolaboratif, dan 
                 mendukung pertumbuhan setiap individu.
               </p>
@@ -190,7 +190,7 @@ export default function CareersLandingPage() {
               Siap untuk Bergabung?
             </h2>
             <p className="text-white/60 text-lg mb-8 max-w-2xl mx-auto">
-              Jelajahi peluang karir di DP Attorney dan mulai perjalanan profesional Anda bersama kami.
+              Jelajahi peluang karir di Dion Pongkor & Partners dan mulai perjalanan profesional Anda bersama kami.
             </p>
             <Link to="/karir/lowongan">
               <Button className="bg-orange-500 hover:bg-orange-600 text-white px-10 py-7 rounded-full font-medium text-lg transition-all duration-300 hover:shadow-glow group">

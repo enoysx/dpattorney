@@ -1,8 +1,8 @@
 export const firmHistory = [
   {
     year: '1999',
-    title: 'Pendirian DP Attorney',
-    description: 'DP Attorney didirikan di Singapore oleh tiga partner dengan visi untuk menyediakan layanan hukum berkualitas tinggi dengan pendekatan yang inovatif.',
+    title: 'Pendirian Dion Pongkor & Partners',
+    description: 'Dion Pongkor & Partners didirikan di Singapore oleh tiga partner dengan visi untuk menyediakan layanan hukum berkualitas tinggi dengan pendekatan yang inovatif.',
   },
   {
     year: '2005',
@@ -133,17 +133,17 @@ export const leadershipMessage = {
     name: 'Sarah Jenkins',
     title: 'Managing Partner',
     image: '/images/team-sarah.jpg',
-    message: `Selamat datang di DP Attorney.
+    message: `Selamat datang di Dion Pongkor & Partners.
 
-Selama 25 tahun terakhir, kami telah berkomitmen untuk memberikan layanan hukum terbaik dengan pendekatan yang inovatif dan berorientasi pada klien. Perjalanan kami dimulai dengan visi sederhana: untuk menjadi firma hukum yang benar-benar memahami kebutuhan bisnis di Asia.
+  Selama 25 tahun terakhir, kami telah berkomitmen untuk memberikan layanan hukum terbaik dengan pendekatan yang inovatif dan berorientasi pada klien. Perjalanan kami dimulai dari dedikasi untuk memberikan nasihat hukum yang pragmatis dan bernilai bagi klien di kawasan.
 
-Hari ini, dengan 150+ profesional hukum di 20+ lokasi, kami bangga telah membantu ribuan klien menavigasi kompleksitas hukum di Asia. Keberhasilan kami didasarkan pada prinsip-prinsip yang tidak pernah berubah: keunggulan, integritas, dan kolaborasi.
+  Hari ini, dengan tim profesional yang berpengalaman di berbagai yurisdiksi, kami bangga telah membantu banyak klien menavigasi kompleksitas hukum di Asia. Keberhasilan kami didasarkan pada prinsip-prinsip yang tidak pernah berubah: keunggulan, integritas, dan kolaborasi.
 
-Kami terus berinovasi dan beradaptasi dengan perubahan lanskap hukum dan bisnis. Dari fintech hingga energi terbarukan, kami berada di garis depan perkembangan hukum di Asia.
+  Kami terus berinovasi dan beradaptasi dengan perubahan lanskap hukum dan bisnis. Dari fintech hingga energi terbarukan, kami berada di garis depan perkembangan hukum di kawasan.
 
-Terima kasih telah mempertimbangkan DP Attorney sebagai mitra hukum Anda. Kami berharap dapat bekerja sama dengan Anda.
+  Terima kasih telah mempertimbangkan Dion Pongkor & Partners sebagai mitra hukum Anda. Kami berharap dapat bekerja sama dengan Anda.
 
-Salam hormat,
-Sarah Jenkins`,
+  Salam hormat,
+  Dion Pongkor`,
   },
 };

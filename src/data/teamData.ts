@@ -17,22 +17,22 @@ export interface TeamMember {
 
 export const partners: TeamMember[] = [
   {
-    id: 'sarah-jenkins',
-    name: 'Sarah Jenkins',
-    role: 'Managing Partner',
+    id: 'dion-pongkor',
+    name: 'Dion Pongkor',
+    role: 'Founding Partner & Managing Partner',
     type: 'partner',
-    image: '/images/team-sarah.jpg',
+    image: '/images/team-dion.jpg',
     expertise: ['Corporate Law', 'M&A', 'Cross-border Transactions'],
-    email: 'sarah.jenkins@dpattorney.com',
+    email: 'dion.pongkor@dpattorney.com',
     phone: '+65 6123 4561',
     linkedin: 'https://linkedin.com',
-    bio: 'Sarah Jenkins adalah Managing Partner di DP Attorney dengan pengalaman lebih dari 20 tahun dalam hukum korporasi dan M&A. Beliau telah menangani transaksi lintas batas senilai miliaran dolar di seluruh Asia Pasifik.',
+    bio: 'Dion Pongkor adalah Founding Partner & Managing Partner di Dion Pongkor & Partners dengan pengalaman lebih dari 20 tahun dalam hukum korporasi dan M&A. Beliau telah menangani transaksi lintas batas dan memberikan nasihat strategis bagi perusahaan-perusahaan besar di Asia.',
     education: [
       'LL.M., Harvard Law School',
-      'Sarjana Hukum, National University of Singapore',
+      'Sarjana Hukum, Universitas Indonesia',
     ],
     experience: [
-      'Managing Partner, DP Attorney (2015 - sekarang)',
+      'Founding Partner & Managing Partner, Dion Pongkor & Partners (2015 - sekarang)',
       'Partner, Baker & McKenzie (2005 - 2015)',
       'Associate, Allen & Gledhill (2000 - 2005)',
     ],
@@ -59,7 +59,7 @@ export const partners: TeamMember[] = [
       'B.S. Computer Science, MIT',
     ],
     experience: [
-      'Senior Partner, DP Attorney (2018 - sekarang)',
+      'Senior Partner, Dion Pongkor & Partners (2018 - sekarang)',
       'General Counsel, Binance (2015 - 2018)',
       'Associate, Skadden Arps (2008 - 2015)',
     ],
@@ -85,7 +85,7 @@ export const partners: TeamMember[] = [
       'Sarjana Hukum, University of Delhi',
     ],
     experience: [
-      'Partner, DP Attorney (2019 - sekarang)',
+      'Partner, Dion Pongkor & Partners (2019 - sekarang)',
       'Partner, Clifford Chance (2010 - 2019)',
       'Associate, Amarchand & Mangaldas (2005 - 2010)',
     ],
@@ -111,7 +111,7 @@ export const partners: TeamMember[] = [
       'Sarjana Hukum, University of Sydney',
     ],
     experience: [
-      'Partner, DP Attorney (2017 - sekarang)',
+      'Partner, Dion Pongkor & Partners (2017 - sekarang)',
       'Partner, Herbert Smith Freehills (2008 - 2017)',
       'Barrister, Sydney Bar (2000 - 2008)',
     ],
@@ -137,7 +137,7 @@ export const partners: TeamMember[] = [
       'Sarjana Hukum, University of Hong Kong',
     ],
     experience: [
-      'Partner, DP Attorney (2016 - sekarang)',
+      'Partner, Dion Pongkor & Partners (2016 - sekarang)',
       'Partner, Linklaters (2007 - 2016)',
       'Associate, Freshfields (2000 - 2007)',
     ],
@@ -163,7 +163,7 @@ export const partners: TeamMember[] = [
       'Sarjana Hukum, NUS',
     ],
     experience: [
-      'Partner, DP Attorney (2020 - sekarang)',
+      'Partner, Dion Pongkor & Partners (2020 - sekarang)',
       'Head of IP, Google APAC (2015 - 2020)',
       'Associate, Rouse & Co (2008 - 2015)',
     ],
@@ -192,7 +192,7 @@ export const seniorAssociates: TeamMember[] = [
       'LL.M., NUS',
     ],
     experience: [
-      'Senior Associate, DP Attorney (2021 - sekarang)',
+      'Senior Associate, Dion Pongkor & Partners (2021 - sekarang)',
       'Associate, Kim & Chang (2016 - 2021)',
     ],
     languages: ['English', 'Korean', 'Japanese'],
@@ -213,7 +213,7 @@ export const seniorAssociates: TeamMember[] = [
       'Sarjana Hukum, University of Munich',
     ],
     experience: [
-      'Senior Associate, DP Attorney (2020 - sekarang)',
+      'Senior Associate, Dion Pongkor & Partners (2020 - sekarang)',
       'Associate, DLA Piper (2015 - 2020)',
     ],
     languages: ['English', 'German', 'French'],
@@ -234,7 +234,7 @@ export const seniorAssociates: TeamMember[] = [
       'Master of Construction Law, Monash University',
     ],
     experience: [
-      'Senior Associate, DP Attorney (2022 - sekarang)',
+      'Senior Associate, Dion Pongkor & Partners (2022 - sekarang)',
       'Associate, King & Wood Mallesons (2017 - 2022)',
     ],
     languages: ['English', 'Cantonese'],
@@ -255,7 +255,7 @@ export const seniorAssociates: TeamMember[] = [
       'Sarjana Hukum, University of Philippines',
     ],
     experience: [
-      'Senior Associate, DP Attorney (2019 - sekarang)',
+      'Senior Associate, Dion Pongkor & Partners (2019 - sekarang)',
       'Tax Consultant, PwC (2014 - 2019)',
     ],
     languages: ['English', 'Filipino', 'Spanish'],
@@ -276,7 +276,7 @@ export const associates: TeamMember[] = [
     bio: 'John Lim adalah Associate yang fokus pada hukum korporasi dan kontrak komersial.',
     education: ['Sarjana Hukum, SMU'],
     experience: [
-      'Associate, DP Attorney (2022 - sekarang)',
+      'Associate, Dion Pongkor & Partners (2022 - sekarang)',
       'Trainee, WongPartnership (2021 - 2022)',
     ],
     languages: ['English', 'Mandarin'],
@@ -294,7 +294,7 @@ export const associates: TeamMember[] = [
     bio: 'Siti Rahman adalah Associate di tim penyelesaian sengketa.',
     education: ['Sarjana Hukum, NUS'],
     experience: [
-      'Associate, DP Attorney (2023 - sekarang)',
+      'Associate, Dion Pongkor & Partners (2023 - sekarang)',
       'Trainee, Rajah & Tann (2022 - 2023)',
     ],
     languages: ['English', 'Malay', 'Indonesian'],
@@ -312,7 +312,7 @@ export const associates: TeamMember[] = [
     bio: 'Tom Anderson adalah Associate yang fokus pada perbankan dan fintech.',
     education: ['Sarjana Hukum, University of Oxford'],
     experience: [
-      'Associate, DP Attorney (2023 - sekarang)',
+      'Associate, Dion Pongkor & Partners (2023 - sekarang)',
       'Analyst, Goldman Sachs (2021 - 2022)',
     ],
     languages: ['English'],
@@ -330,7 +330,7 @@ export const associates: TeamMember[] = [
     bio: 'Yuki Tanaka adalah Associate yang fokus pada pasar modal dan sekuritas.',
     education: ['LL.M., Georgetown', 'Sarjana Hukum, University of Tokyo'],
     experience: [
-      'Associate, DP Attorney (2022 - sekarang)',
+      'Associate, Dion Pongkor & Partners (2022 - sekarang)',
       'Associate, Anderson Mori (2020 - 2022)',
     ],
     languages: ['English', 'Japanese'],
@@ -348,7 +348,7 @@ export const associates: TeamMember[] = [
     bio: 'Priya Sharma adalah Associate di tim energi dan infrastruktur.',
     education: ['Sarjana Hukum, NALSAR University'],
     experience: [
-      'Associate, DP Attorney (2023 - sekarang)',
+      'Associate, Dion Pongkor & Partners (2023 - sekarang)',
       'Trainee, Cyril Amarchand (2022 - 2023)',
     ],
     languages: ['English', 'Hindi', 'Tamil'],
@@ -366,7 +366,7 @@ export const associates: TeamMember[] = [
     bio: 'Daniel Ng adalah Associate yang fokus pada teknologi dan perlindungan data.',
     education: ['Sarjana Hukum, NUS', 'B.Comp, NUS'],
     experience: [
-      'Associate, DP Attorney (2023 - sekarang)',
+      'Associate, Dion Pongkor & Partners (2023 - sekarang)',
       'Software Engineer, Google (2020 - 2022)',
     ],
     languages: ['English', 'Mandarin'],

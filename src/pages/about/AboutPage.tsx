@@ -21,7 +21,7 @@ export default function AboutPage() {
       <PageHeader
         title="Tentang Kami"
         subtitle="Profil Perusahaan"
-        description="DP Attorney adalah firma hukum terkemuka di Asia dengan pengalaman lebih dari 25 tahun dalam memberikan solusi hukum inovatif."
+        description="Dion Pongkor & Partners adalah firma hukum terkemuka di Asia dengan pengalaman lebih dari 25 tahun dalam memberikan solusi hukum inovatif."
       />
 
       {/* Leadership Message */}
@@ -38,7 +38,7 @@ export default function AboutPage() {
                 Pesan dari Managing Partner
               </span>
               <h2 className="text-3xl sm:text-4xl font-bold text-white mb-8">
-                Selamat datang di DP Attorney
+                Selamat datang di Dion Pongkor & Partners
               </h2>
               <div className="space-y-6 text-white/60 text-lg leading-relaxed whitespace-pre-line">
                 {leadershipMessage.managingPartner.message}
@@ -162,7 +162,7 @@ export default function AboutPage() {
           <SectionTitle
             title="Perjalanan Kami"
             subtitle="Sejarah"
-            description="Perjalanan DP Attorney dari pendirian hingga menjadi firma hukum terkemuka di Asia."
+            description="Perjalanan Dion Pongkor & Partners dari pendirian hingga menjadi firma hukum terkemuka di Asia."
           />
           <div className="relative">
             {/* Timeline Line */}

@@ -78,7 +78,7 @@ export default function ApplicationFormPage() {
       <PageHeader
         title="Formulir Lamaran"
         subtitle="Karir"
-        description="Isi formulir di bawah ini untuk melamar posisi di DP Attorney."
+        description="Isi formulir di bawah ini untuk melamar posisi di Dion Pongkor & Partners."
       />
 
       <section className="py-24">
@@ -307,7 +307,7 @@ export default function ApplicationFormPage() {
                   </Label>
                   <Textarea
                     id="message"
-                    placeholder="Ceritakan mengapa Anda ingin bergabung dengan DP Attorney"
+                    placeholder="Ceritakan mengapa Anda ingin bergabung dengan Dion Pongkor & Partners"
                     rows={4}
                     className="bg-white/5 border-white/10 text-white placeholder:text-white/30 focus:border-orange-500 resize-none"
                     onChange={(e) => handleChange('message', e.target.value)}

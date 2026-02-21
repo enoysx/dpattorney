@@ -59,7 +59,7 @@ Bagi perusahaan yang beroperasi di Asia Tenggara, berikut adalah rekomendasi kam
 
 Tata kelola AI di Asia Tenggara masih dalam tahap awal, tetapi perkembangannya cepat. Perusahaan yang proaktif dalam mengadopsi praktik tata kelola AI yang baik akan memiliki keunggulan kompetitif dan mengurangi risiko regulasi di masa depan.
 
-Di DP Attorney, kami terus memantau perkembangan regulasi AI dan membantu klien kami menavigasi lanskap yang kompleks ini. Hubungi tim Teknologi & Perlindungan Data kami untuk konsultasi lebih lanjut.`,
+Di Dion Pongkor & Partners, kami terus memantau perkembangan regulasi AI dan membantu klien kami menavigasi lanskap yang kompleks ini. Hubungi tim Teknologi & Perlindungan Data kami untuk konsultasi lebih lanjut.`,
     image: '/images/blog-ai-governance.jpg',
     category: 'Technology',
     author: 'Lisa Tan',
@@ -148,11 +148,11 @@ Berdasarkan analisis kami, kami memproyeksikan:
 
 Tahun 2025 menawarkan peluang signifikan untuk M&A cross-border di Asia. Namun, kesuksesan memerlukan perencanaan yang matang, pemahaman mendalam tentang lanskap regulasi, dan eksekusi yang disiplin.
 
-Tim M&A kami di DP Attorney siap membantu Anda menavigasi kompleksitas transaksi lintas batas. Hubungi kami untuk diskusi lebih lanjut.`,
+Tim M&A kami di Dion Pongkor & Partners siap membantu Anda menavigasi kompleksitas transaksi lintas batas. Hubungi kami untuk diskusi lebih lanjut.`,
     image: '/images/blog-ma.jpg',
     category: 'M&A',
-    author: 'Sarah Jenkins',
-    authorId: 'sarah-jenkins',
+    author: 'Dion Pongkor',
+    authorId: 'dion-pongkor',
     date: '2024-12-10',
     readTime: '6 min',
     tags: ['M&A', 'Cross-border', 'Investment', 'Asia', '2025'],
@@ -247,7 +247,7 @@ Kami mengharapkan:
 
 Lanskap hukum untuk aset digital masih berkembang pesat. Pemahaman yang baik tentang kerangka hukum saat ini dan perkembangannya sangat penting bagi investor dan bisnis yang terlibat dalam aset digital.
 
-Tim Fintech kami di DP Attorney terus memantau perkembangan ini dan siap membantu klien menavigasi kompleksitas hukum aset digital.`,
+Tim Fintech kami di Dion Pongkor & Partners terus memantau perkembangan ini dan siap membantu klien menavigasi kompleksitas hukum aset digital.`,
     image: '/images/blog-crypto.jpg',
     category: 'Fintech',
     author: 'David Chen',
@@ -371,7 +371,7 @@ Pendanaan melalui instrumen keuangan berkelanjutan:
 
 Sektor energi terbarukan di Asia menawarkan peluang investasi yang menarik dengan potensi pengembalian yang kuat. Namun, kesuksesan memerlukan pemahaman mendalam tentang lanskap regulasi, teknologi, dan komersial.
 
-Tim Energi & Infrastruktur kami di DP Attorney memiliki pengalaman luas dalam menasihati investor dalam proyek energi terbarukan. Hubungi kami untuk diskusi lebih lanjut.`,
+Tim Energi & Infrastruktur kami di Dion Pongkor & Partners memiliki pengalaman luas dalam menasihati investor dalam proyek energi terbarukan. Hubungi kami untuk diskusi lebih lanjut.`,
     image: '/images/blog-renewable.jpg',
     category: 'Energy',
     author: 'Alisha Patel',
@@ -466,7 +466,7 @@ Untuk perusahaan multinasional:
 
 Lanskap hukum ketenagakerjaan di Asia terus berkembang dengan fokus pada fleksibilitas, perlindungan, dan keadilan. Perusahaan yang proaktif dalam mengadaptasi kebijakan mereka akan memiliki keunggulan dalam menarik dan mempertahankan talenta.
 
-Tim Ketenagakerjaan kami di DP Attorney siap membantu Anda menavigasi perubahan regulasi ini. Hubungi kami untuk konsultasi.`,
+Tim Ketenagakerjaan kami di Dion Pongkor & Partners siap membantu Anda menavigasi perubahan regulasi ini. Hubungi kami untuk konsultasi.`,
     image: '/images/blog-employment.jpg',
     category: 'Employment',
     author: 'Anna Schmidt',
@@ -594,7 +594,7 @@ Tantangan enforcement:
 
 Arbitrasi internasional terus beradaptasi dengan perubahan teknologi dan geopolitik. Pemahaman tentang tren terbaru sangat penting untuk kesuksesan dalam penyelesaian sengketa internasional.
 
-Tim Penyelesaian Sengketa kami di DP Attorney memiliki pengalaman luas dalam arbitrasi internasional di bawah berbagai aturan. Hubungi kami untuk konsultasi.`,
+Tim Penyelesaian Sengketa kami di Dion Pongkor & Partners memiliki pengalaman luas dalam arbitrasi internasional di bawah berbagai aturan. Hubungi kami untuk konsultasi.`,
     image: '/images/blog-arbitration.jpg',
     category: 'Dispute Resolution',
     author: 'Michael Ross',

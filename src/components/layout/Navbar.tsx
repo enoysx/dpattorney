@@ -99,7 +99,7 @@ export default function Navbar() {
                   <span className="text-white font-bold text-lg">DP</span>
                 </div>
                 <span className="text-white font-semibold text-lg tracking-wide">
-                  ATTORNEY
+                  PONGKOR & PARTNERS
                 </span>
               </motion.div>
             </Link>

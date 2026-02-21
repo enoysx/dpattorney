@@ -46,7 +46,7 @@ export default function Footer() {
                 <span className="text-white font-bold text-lg">DP</span>
               </div>
               <span className="text-white font-semibold text-lg tracking-wide">
-                ATTORNEY
+                PONGKOR & PARTNERS
               </span>
             </Link>
             <p className="text-white/50 text-sm leading-relaxed mb-6">
@@ -167,7 +167,7 @@ export default function Footer() {
               transition={{ duration: 0.6 }}
               className="text-white/30 text-sm"
             >
-              © 2024 DP Attorney. Hak Cipta Dilindungi.
+              © 2024 Dion Pongkor & Partners. Hak Cipta Dilindungi.
             </motion.p>
             <motion.div
               initial={{ opacity: 0 }}

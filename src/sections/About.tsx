@@ -23,7 +23,7 @@ export default function About() {
             >
               <span className="inline-flex items-center gap-2 px-4 py-2 bg-orange-500/10 border border-orange-500/20 rounded-full text-orange-400 text-sm font-medium">
                 <Sparkles className="w-4 h-4" />
-                About DP Attorney
+                About Dion Pongkor & Partners
               </span>
             </motion.div>
 
@@ -49,7 +49,7 @@ export default function About() {
               className="space-y-6 text-white/60 text-lg leading-relaxed"
             >
               <p>
-                Traditional law is obsolete. We are pioneers. At DP Attorney, we view
+                Traditional law is obsolete. We are pioneers. At Dion Pongkor & Partners, we view
                 legal frameworks not as constraints, but as the underlying code of
                 modern business.
               </p>
@@ -92,7 +92,7 @@ export default function About() {
               <div className="relative aspect-video rounded-2xl overflow-hidden border border-white/10">
                 <img
                   src="/images/about-image.jpg"
-                  alt="DP Attorney Office"
+                  alt="Dion Pongkor Office"
                   className="w-full h-full object-cover"
                 />
                 {/* Overlay */}
